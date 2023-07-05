@@ -1,2 +1,2 @@
 # Anecdotes exercise
-From part 1.12 to 1.14
+From 1.12 to 1.14
